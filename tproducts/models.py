@@ -7,3 +7,4 @@ class TProduct(models.Model):
     description = models.CharField(max_length = 255)
     stock = models.CharField(max_length=100)
     image_url = models.ImageField(upload_to='products/')
+    contact = models.CharField(max_length=255, default=0)
