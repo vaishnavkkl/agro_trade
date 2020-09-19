@@ -8,3 +8,4 @@ class TProduct(models.Model):
     stock = models.CharField(max_length=100)
     image_url = models.ImageField(upload_to='products/')
     contact = models.CharField(max_length=255, default=0)
+    address = models.CharField(max_length=255,default="not provided")
