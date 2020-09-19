@@ -21,9 +21,6 @@ install the dependency
 
     pip install pillow
 
-migrate the migrations
-
-    ./manage.py migrate
 
 start the django server
 
