@@ -25,4 +25,4 @@ install the dependency
 
 start the django server
 
-    ./manage.py runserver
+    ./python manage.py runserver
