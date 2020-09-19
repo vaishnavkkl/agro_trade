@@ -10,7 +10,7 @@
 
 cd into folder 
 
-    cd backend
+    cd <to current directory>
 
 create a virtual env    
 
