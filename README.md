@@ -18,7 +18,8 @@ create a virtual env
     source env/bin/activate    
 
 install the dependency  
-
+    
+    pip install django
     pip install pillow
 
 
