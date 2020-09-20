@@ -26,3 +26,8 @@ install the dependency
 start the django server
 
     ./python manage.py runserver
+    
+    
+after running the server go to
+
+    (ip Adress)/tproducts/
