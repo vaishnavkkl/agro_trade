@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '0d7fvztg9pvn2nzu-w4rf21nbj9teff-n*-xwj2j53ih7*!&+r'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['agro-trade-hackware.herokuapp.com/', '127.0.0.1']
 
 
 # Application definition

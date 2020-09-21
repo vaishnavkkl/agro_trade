@@ -1,0 +1,1 @@
+web: gunicorn agrotrade.wsgi --log-file-
