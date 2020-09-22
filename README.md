@@ -5,6 +5,8 @@
 * The buyer can buy the products by contacting the farmers directly on their contact numbers provided by them.
 * Sellers can contact the admin for adding their products in the marketplace.
 * This is full stack application built with django.
+* Website url:http://vaishnavkkl.pythonanywhere.com/tproducts
+*hosted using pythonanywhere
 
 ### Setup instructions
 
